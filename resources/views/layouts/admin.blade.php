@@ -8,21 +8,21 @@
     <title>@yield('title')</title>
 
     <!-- plugins:css -->
-    <link rel="stylesheet" href="{{asset('build')}}/assets/admin/assets/vendors/mdi/css/materialdesignicons.min.css">
-    <link rel="stylesheet" href="{{asset('build')}}/assets/admin/assets/vendors/css/vendor.bundle.base.css">
+    <link rel="stylesheet" href="{{asset('build')}}/tempassets/vendors/mdi/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="{{asset('build')}}/tempassets/vendors/css/vendor.bundle.base.css">
     <!-- endinject -->
     <!-- Plugin css for this page -->
-    <link rel="stylesheet" href="{{asset('build')}}/assets/admin/assets/vendors/jvectormap/jquery-jvectormap.css">
-    <link rel="stylesheet" href="{{asset('build')}}/assets/admin/assets/vendors/flag-icon-css/css/flag-icon.min.css">
-    <link rel="stylesheet" href="{{asset('build')}}/assets/admin/assets/vendors/owl-carousel-2/owl.carousel.min.css">
-    <link rel="stylesheet" href="{{asset('build')}}/assets/admin/assets/vendors/owl-carousel-2/owl.theme.default.min.css">
+    <link rel="stylesheet" href="{{asset('build')}}/tempassets/vendors/jvectormap/jquery-jvectormap.css">
+    <link rel="stylesheet" href="{{asset('build')}}/tempassets/vendors/flag-icon-css/css/flag-icon.min.css">
+    <link rel="stylesheet" href="{{asset('build')}}/tempassets/vendors/owl-carousel-2/owl.carousel.min.css">
+    <link rel="stylesheet" href="{{asset('build')}}/tempassets/vendors/owl-carousel-2/owl.theme.default.min.css">
     <!-- End plugin css for this page -->
     <!-- inject:css -->
     <!-- endinject -->
     <!-- Layout styles -->
-    <link rel="stylesheet" href="{{asset('build')}}/assets/admin/assets/css/style.css">
+    <link rel="stylesheet" href="{{asset('build')}}/tempassets/css/style.css">
     <!-- End layout styles -->
-    <link rel="shortcut icon" href="{{asset('build')}}/assets/admin/assets/images/favicon.png" />
+    <link rel="shortcut icon" href="{{asset('build')}}/tempassets/images/favicon.png" />
 </head>
 <body>
 <div class="container-scroller">
